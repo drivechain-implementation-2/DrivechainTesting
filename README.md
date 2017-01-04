@@ -33,14 +33,12 @@ make
 
 - Configuration file
 
-Copy the main.conf configuration file from
-
-[Drivechain testing repository](https://github.com/drivechain-project/testing)
+Copy the main.conf configuration file from the [Drivechain testing repository](https://github.com/drivechain-project/testing)
 
 to ~/drivechain/data/maindata/bitcoin.conf
 
 ### Sidechain setup
-- Clone repository and checkout sidechain branch (Note that you will need to
+- Clone repository and checkout sidechain branch
 ```
 cd ~/drivechain/sidechain/
 git clone https://github.com/drivechain-project/bitcoin.git
@@ -57,9 +55,7 @@ make
 
 - Configuration file
 
-Copy the side.conf configuration file from
-
-[Drivechain testing repository](https://github.com/drivechain-project/testing)
+Copy the side.conf configuration file from the [Drivechain testing repository](https://github.com/drivechain-project/testing)
 
 to ~/drivechain/sidedata/bitcoin.conf
 
