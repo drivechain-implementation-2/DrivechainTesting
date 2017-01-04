@@ -10,7 +10,7 @@ mkdir -p ~/drivechain/{mainchain,sidechain}
 
 - Create directories for mainchain and sidechain datadir
 ```
-mkdir ~/drivechain/data/{maindata,sidedata}
+mkdir -p ~/drivechain/data/{maindata,sidedata}
 ```
 
 `Note: the guide will assume that you have created the same directories`
