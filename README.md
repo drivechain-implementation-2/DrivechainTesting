@@ -13,7 +13,7 @@ mkdir -p ~/drivechain/{mainchain,sidechain}
 mkdir -p ~/drivechain/data/{maindata,sidedata}
 ```
 
-`Note: the guide will assume that you have created the same directories`
+`Note: this guide will assume that you have created the same directories`
 
 ### Mainchain (bitcoin) setup
 - Clone repository and checkout mainchain branch
